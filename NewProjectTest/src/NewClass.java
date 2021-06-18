@@ -4,5 +4,6 @@ public class NewClass {
         int b = 10;
 
         System.out.println(a+b);
+        //cool job
     }
 }
